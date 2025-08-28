@@ -28,7 +28,7 @@ const CONFIG = {
     liquidity: "Locked",
   },
   chain: "Solana",
-  contract: "YOUR_CONTRACT_ADDRESS_HERE", // paste real contract
+  contract: "GNHW5JetZmW85vAU35KyoDcYoSd3sNWtx5RPMTDJpump", // paste real contract
   links: {
     buy: "#", // pump.fun or Raydium link
     contract: "#", // Solscan link
